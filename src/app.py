@@ -30,6 +30,8 @@ from keras.layers import Dense, LSTM
 # url='https://services-baro.up.railway.app/api/ia/getAllDiarios'
 # url='https://services-baro.up.railway.app/api/ia/getAllFreq'
 
+# HOLA 
+
 # Guardar el server dentro de app
 app=Flask(__name__) 
 app.config['JSON_AS_ASCII'] = False # Para que no se muestren los caracteres con codificación ASCII
